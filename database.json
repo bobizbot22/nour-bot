@@ -1,0 +1,205 @@
+{
+  "users": {
+    "212645646069@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212695291859@s.whatsapp.net": {
+      "exp": 55,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212694419702@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212681803112@s.whatsapp.net": {
+      "exp": 18,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212602004205@s.whatsapp.net": {
+      "exp": 307,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212715059378@s.whatsapp.net": {
+      "exp": 227,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212634793418@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212600737666@s.whatsapp.net": {
+      "exp": 1,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212701249581@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212659297337@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212718621669@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212666354776@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "120363028668267427@g.us": {
+      "exp": 52,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212704617633@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212632801080@s.whatsapp.net": {
+      "exp": 15,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212689940585@s.whatsapp.net": {
+      "exp": 60,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "212662182371@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "254755757900@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 100,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    }
+  },
+  "chats": {
+    "120363028668267427@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    },
+    "120363169314857761@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 11,
+      "success": 11,
+      "last": 1705160439821,
+      "lastSuccess": 1705160439821
+    },
+    "apk.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1705157936712,
+      "lastSuccess": 1705157926209
+    },
+    "owner.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1705157967071,
+      "lastSuccess": 1705157967071
+    },
+    "sticker.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1705160276818,
+      "lastSuccess": 1705160276818
+    },
+    "apkinfo.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1705160402990,
+      "lastSuccess": 1705160402990
+    },
+    "apkgk.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1705160398740,
+      "lastSuccess": 1705160398740
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "212715059378@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    }
+  }
+}
